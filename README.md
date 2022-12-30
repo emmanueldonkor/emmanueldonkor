@@ -1,18 +1,22 @@
 ### Hi there 👋
 
+#I'm Emmanuel Donkor
+
+#I'm currently studying computer Engineering at Vistula University
 
 
+##Skills
+- Languages :C#, Java, JavaScript
+-WebDev: React, HTML, CSS/SASS
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about DSA and algorithm problems
+- 📫 How to reach me: edonkor0000@gmail.com
+- ⚡ Fun fact: Football and music
 
 
 
