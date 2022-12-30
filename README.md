@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**emmanueldonkor/emmanueldonkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanueldonkor&theme=dark&show_icons=true&icon_color=ffffff&bg_color=151515)](https://github.com/emmanueldonkor/emmanueldonkor)
