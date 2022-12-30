@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=openai&theme=dark&show_icons=true&icon_color=ffffff&bg_color=151515)](https://github.com/emmanueldonkor/emmanueldonkor)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanueldonkor&theme=dark&show_icons=true&icon_color=ffffff&bg_color=151515)](https://github.com/emmanueldonkor/emmanueldonkor)
+
