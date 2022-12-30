@@ -6,10 +6,10 @@
 
 
 ##Skills
-- Languages :C#, Java, JavaScript
--WebDev: React, HTML, CSS/SASS
+- Languages :C#, Java, JavaScript, 
+- WebDev: React, HTML, CSS/SASS
+- Current: Spring Boot
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning web development
