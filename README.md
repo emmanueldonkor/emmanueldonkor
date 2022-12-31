@@ -1,11 +1,11 @@
-### Hi there 👋
+ Hi there 👋
 
-#I'm Emmanuel Donkor
+I'm Emmanuel Donkor
 
-#I'm currently studying computer Engineering at Vistula University
+I'm currently studying computer Engineering at Vistula University
 
 
-####Skills
+Skills
 - Languages :C#, Java, JavaScript, 
 - WebDev: React, HTML, CSS/SASS
 - Current: Spring Boot
