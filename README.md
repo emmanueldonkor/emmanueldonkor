@@ -32,7 +32,9 @@ Skills
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - 🌱 I’m currently learning web development and other programming languages
+
 - 📫 How to reach me edonkor0000gmail.com
+
 - ⚡ Fun fact :- Football and Music🎵 are my hobby.
 <br>
 <h3 align="left">Connect with me:</h3>
