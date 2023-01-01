@@ -22,3 +22,10 @@ Skills
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanueldonkor&theme=dark&show_icons=true&icon_color=ffffff&bg_color=151515)](https://github.com/emmanueldonkor/emmanueldonkor)
 
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanueldonkor&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="emmanueldonkor" /></p>
+
+<br>
