@@ -12,7 +12,6 @@ Skills
 -->
 <!--
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about DSA and algorithm problems
 - 📫 How to reach me: edonkor0000@gmail.com
