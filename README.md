@@ -23,11 +23,9 @@ Skills
 -->
 
 <h1 align="center">Hi 👋, I'm Emmanuel Donkor </h1>
-<!--
--->
 
-- 📫 How to reach me edonkor0000gmail.com
-- ⚡ Fun fact :- Football and Music🎵 are my hobby.
+- 📫 How to reach me edonkor0001gmail.com
+- ⚡ Fun fact : Football and Music🎵
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
