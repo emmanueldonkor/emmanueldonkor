@@ -23,7 +23,6 @@ Skills
 -->
 
 <h1 align="center">Hi 👋, I'm Emmanuel Donkor </h1>
-<h3 align="center">Studying computer Engineering at Vistula University.</h3>
 <!--
 -->
 
