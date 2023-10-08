@@ -26,10 +26,8 @@ Skills
 <h3 align="center">Studying computer Engineering at Vistula University.</h3>
 <!--
 -->
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 📫 How to reach me edonkor0000gmail.com
-
 - ⚡ Fun fact :- Football and Music🎵 are my hobby.
 <br>
 <h3 align="left">Connect with me:</h3>
